@@ -6,7 +6,7 @@ A netflix clone made using HTML, JAVASCRIPT and Styled Components.
 ![Logo](https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg)
 ## Documentation
 
-https://dharanisatwika.github.io/Netflix-clone/
+https://github.com/dharanisatwika/Netflix-clone.git
 
   
 ## Feedback
